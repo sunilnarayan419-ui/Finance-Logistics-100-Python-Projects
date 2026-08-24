@@ -1,0 +1,10 @@
+# config/settings.yaml — Intelligent Finance + Logistics Network Simulator
+project:
+  number: 100
+  name: "Intelligent Finance + Logistics Network Simulator"
+
+# TODO: add tunable parameters (paths, thresholds, model params, etc.)
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  outputs: "outputs"
